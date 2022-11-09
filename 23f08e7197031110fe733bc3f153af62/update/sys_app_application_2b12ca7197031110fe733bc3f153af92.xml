@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Personal wish list application</description>
+        <device_type>browser</device_type>
+        <hint>Personal wish list application</hint>
+        <name/>
+        <order/>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 15:00:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2b12ca7197031110fe733bc3f153af92</sys_id>
+        <sys_name>Wish List Tokyo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wish List Tokyo" source="x_750304_wish_toky">23f08e7197031110fe733bc3f153af62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List Tokyo">23f08e7197031110fe733bc3f153af62</sys_scope>
+        <sys_update_name>sys_app_application_2b12ca7197031110fe733bc3f153af92</sys_update_name>
+        <title>Wish List Tokyo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
